@@ -3,6 +3,7 @@
 Este é um sistema de autenticação de usuários desenvolvido com **Node.js**, **Express**, **MySQL** e **EJS**. Ele permite que os usuários se registrem, façam login, atualizem suas informações e excluam suas contas.  
 
 ## 🚀 Tecnologias Utilizadas  
+- **JavaScript**  
 - **Node.js** + **Express** para o servidor  
 - **MySQL** para o banco de dados  
 - **EJS** para renderização de páginas dinâmicas  
