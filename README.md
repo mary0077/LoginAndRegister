@@ -18,6 +18,11 @@ Este é um sistema de autenticação de usuários desenvolvido com **Node.js**, 
 ## 📂 Estrutura do Projeto  
 📂 projeto ├── 📁 public # Arquivos estáticos (CSS, imagens, scripts) ├── 📁 views # Páginas EJS ├── 📄 app.js # Arquivo principal do servidor ├── 📄 package.json # Dependências e configurações do projeto └── 📄 README.md # Documentação do projeto
 
+## 📜 Licença
+
+Este projeto está licenciado sob a licença MIT – veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+
 ## 💬 Agradecimento  
 
 Agradeço por dedicar um tempo para conhecer este projeto! Espero que ele seja útil para você.  
